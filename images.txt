@@ -1,1 +1,1 @@
- debian:12.5
+sonarsource/sonar-scanner-cli:11.0
