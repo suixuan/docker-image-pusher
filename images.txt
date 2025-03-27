@@ -1,1 +1,1 @@
-opencvcourses/opencv:440
+docker pull onlyoffice/documentserver
