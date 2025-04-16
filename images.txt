@@ -1,1 +1,1 @@
-postgres:15.12-bullseye
+ubuntu:20.04
