@@ -1,1 +1,1 @@
-ubuntu:24.04
+mcr.microsoft.com/devcontainers/base:ubuntu-22.04
