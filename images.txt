@@ -1,1 +1,1 @@
-beck8/subs-check
+cloudflare/cloudflared:latest
