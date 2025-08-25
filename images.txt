@@ -1,1 +1,1 @@
-intelanalytics/ipex-llm-inference-cpp-xpu:latest
+python:3.10.18-slim-bullseye
