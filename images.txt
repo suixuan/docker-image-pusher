@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest
+qwenllm/qwenvl:qwen3vl-cu128
