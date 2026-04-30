@@ -1,1 +1,1 @@
-downloads.unstructured.io/unstructured-io/unstructured
+downloads.unstructured.io/unstructured-io/unstructured-api
