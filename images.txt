@@ -1,1 +1,1 @@
-downloads.unstructured.io/unstructured-io/unstructured-api
+qdrant/qdrant
