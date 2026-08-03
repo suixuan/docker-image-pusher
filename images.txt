@@ -1,1 +1,1 @@
-nvcr.io/nvidia/deepstream:7.0-triton-multiarch
+nvcr.io/nvidia/deepstream:9.0-triton-multiarch
