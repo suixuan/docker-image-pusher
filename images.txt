@@ -1,1 +1,1 @@
-freeradius/freeradius-server:latest-3.2-alpine
+nvcr.io/nvidia/tritonserver:26.05-py3
