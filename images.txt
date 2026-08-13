@@ -1,1 +1,1 @@
-golang:1.26-bookworm
+nvcr.io/nvidia/tritonserver:26.05-vllm-python-py3
