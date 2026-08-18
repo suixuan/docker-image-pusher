@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tritonserver:26.05-vllm-python-py3
+eclipse-temurin:21-jre
