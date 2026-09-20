@@ -1,1 +1,1 @@
-jasondennis12138/xxl-job-admin-postgressql
+yangxj96/nacos-server-pgsql:v2.2.3
