@@ -1,1 +1,1 @@
-yangxj96/nacos-server-pgsql:v2.2.3
+nginx:1.30.5-alpine-slim
