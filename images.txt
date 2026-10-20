@@ -1,1 +1,1 @@
-nicolaka/netshoot
+postgres:16-alpine
