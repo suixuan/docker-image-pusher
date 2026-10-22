@@ -1,1 +1,1 @@
-alpine/psql
+dbeaver/cloudbeaver
