@@ -1,1 +1,1 @@
-dbeaver/cloudbeaver
+redis:6.2.24-alpine
